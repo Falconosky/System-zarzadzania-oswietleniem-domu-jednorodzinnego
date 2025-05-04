@@ -1,0 +1,5 @@
+debug=0
+menu_position=0
+czas_oczekiwania_na_ruch_w_pokoju=10
+czas_wygasania_czujnikow=2
+login_password_hash=123

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "czujnik_ruchu",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp"
+		}
+	}
+}
